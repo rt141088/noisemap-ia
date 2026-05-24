@@ -343,9 +343,7 @@ O vídeo demonstra:
 
 ## 🔗 Link do vídeo
 
-```text
-ADICIONAR LINK DO YOUTUBE AQUI
-```
+https://www.youtube.com/watch?v=JmnHDWwtLG4
 
 ---
 
